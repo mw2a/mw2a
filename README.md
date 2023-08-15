@@ -2,7 +2,8 @@
 MW2:A is a mod made for the newest version of IW4x, This is not a client. You can play with bots (with the power of bot warfare!) and play with your friends (if you have them lol). MW2:A includes, 80 levels, new weapons, maps, camos, UI, and more! MW2 is AGELESS...
 
 
-![MW2 AGELESS BANNER](https://github.com/nurla9000/cod-offbrand-remastered/assets/140421367/daa63767-1de5-45ce-9b16-34fec48cfa0b)
+![mw2a](https://github.com/mw2a/mw2a/assets/140421367/b9eaa9c8-6425-49d9-8c68-8a50b49157c5)
+
 
 
 # Confirmed Gamemodes 
